@@ -12,4 +12,4 @@ if (tal1 == tal2 * 2 || tal2 == tal1 * 2)
     Console.WriteLine($"För stort");
 }
 else
-{Console.WriteLine($"Du har angett talen {tal1} och {tal2}. ");}
+{ Console.WriteLine($"Du har angett talen {tal1} och {tal2}. "); }
